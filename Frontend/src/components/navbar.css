@@ -1,0 +1,15 @@
+.navbar {
+display: flex;
+justify-content: space-between;
+padding: 15px 30px;
+background: black;
+color: gold;
+position: sticky;
+top: 0;
+}
+
+.navbar a {
+margin: 0 10px;
+color: white;
+text-decoration: none;
+}
